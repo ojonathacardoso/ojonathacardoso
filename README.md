@@ -2,7 +2,7 @@
 
 - Analista Judiciário do [Tribunal Regional do Trabalho da 4ª Região](https://www.trt4.jus.br/portais/trt4) desde 2022.
 - Servidor público desde 2011, na área de Tecnologia da Informação.
-- Ex-colaborador do projeto de retomada do [SAAP](https://github.com/interlegis/saap) ([Interlegis](https://github.com/interlegis)/Senado Federal).
+- Claborador do projeto do [SAAP](https://github.com/interlegis/saap) ([Interlegis](https://github.com/interlegis)/Senado Federal).
 - Bacharel em Sistemas de Informação pela Universidade FEEVALE
 - Técnico em Informática pela Universidade UNIVATES
 
