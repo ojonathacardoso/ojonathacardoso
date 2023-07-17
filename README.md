@@ -1,10 +1,10 @@
 ## Olá! Eu sou o Jonatha Cardoso
 
 - Analista Judiciário do [Tribunal Regional do Trabalho da 4ª Região](https://www.trt4.jus.br/portais/trt4) desde 2022.
-- Servidor público na área de Tecnologia da Informação desde 2011, com passagens pela [Câmara de Novo Hamburgo](https://portal.camaranh.rs.gov.br/) e pelo [IPASEM/NH](https://www.ipasemnh.com.br/)
-- Colaborador do projeto do [SAAP](https://github.com/interlegis/saap) ([Interlegis](https://github.com/interlegis)/Senado Federal) desde 2018.
-- Bacharel em Sistemas de Informação pela Universidade FEEVALE (2019)
-- Técnico em Informática pela Universidade UNIVATES (2010)
+- Servidor público na área de Tecnologia da Informação desde 2011, na [Câmara de Novo Hamburgo](https://portal.camaranh.rs.gov.br/) e no [IPASEM/NH](https://www.ipasemnh.com.br/)
+- Colaborador do projeto do [SAAP](https://github.com/interlegis/saap) ([Interlegis](https://github.com/interlegis)/[Senado Federal](https://www12.senado.leg.br/hpsenado)) desde 2018.
+- Bacharel em Sistemas de Informação pela [Universidade FEEVALE](https://www.feevale.br/) (2019)
+- Técnico em Informática pela [Universidade UNIVATES](https://www.univates.br/) (2010)
 
  ##
 <div style="display: inline_block"><br>
