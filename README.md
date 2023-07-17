@@ -6,8 +6,6 @@
 - Bacharel em Sistemas de Informação pela Universidade FEEVALE
 - Técnico em Informática pela Universidade UNIVATES
 
-[![Jonatha Cardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojonathacardoso&show_icons=true&theme=dark)](https://github.com/ojonathacardoso/github-readme-stats)
-
  ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
